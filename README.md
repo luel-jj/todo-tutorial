@@ -2,6 +2,16 @@
 
 [Claude Code Playbook](https://docs.claude-hunt.com) 강의의 실습용 저장소입니다. Next.js 와 shadcn/ui 로 시작하는 작은 Todo 앱을 단계별로 발전시키며 Claude Code 사용법을 익힙니다.
 
+## 프로젝트 소개
+
+브라우저의 localStorage에 할 일을 저장하고 관리하는 작은 Todo 앱입니다.
+
+- 할 일 추가 / 수정 / 삭제 (우선순위, 마감일, 카테고리 지정 가능)
+- 완료 여부 토글 및 전체 · 진행중 · 완료 상태 필터링
+- 카테고리별 필터링
+- 키워드 검색
+- 생성일 등 기준으로 정렬
+
 ## 관련 링크
 
 - 강의 본문: https://docs.claude-hunt.com
